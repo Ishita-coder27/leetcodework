@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Ishita-coder27/leetcodework/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Ishita-coder27/leetcodework/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Ishita-coder27/leetcodework/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Ishita-coder27/leetcodework/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishita-coder27/leetcodework/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ishita-coder27/leetcodework/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishita-coder27/leetcodework/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ishita-coder27/leetcodework/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishita-coder27/leetcodework/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Ishita-coder27/leetcodework/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Ishita-coder27/leetcodework/tree/master/1563-stone-game-v) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishita-coder27/leetcodework/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Ishita-coder27/leetcodework/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ishita-coder27/leetcodework/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Ishita-coder27/leetcodework/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ishita-coder27/leetcodework/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Ishita-coder27/leetcodework/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishita-coder27/leetcodework/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishita-coder27/leetcodework/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishita-coder27/leetcodework/tree/master/3312-sorted-gcd-pair-queries) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ishita-coder27/leetcodework/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Ishita-coder27/leetcodework/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ishita-coder27/leetcodework/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Ishita-coder27/leetcodework/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
