@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Ishita-coder27/leetcodework/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Ishita-coder27/leetcodework/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Ishita-coder27/leetcodework/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishita-coder27/leetcodework/tree/master/1301-number-of-paths-with-max-score) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Ishita-coder27/leetcodework/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ishita-coder27/leetcodework/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ishita-coder27/leetcodework/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishita-coder27/leetcodework/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
