@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ishita-coder27/leetcodework/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/Ishita-coder27/leetcodework/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Ishita-coder27/leetcodework/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Ishita-coder27/leetcodework/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ishita-coder27/leetcodework/tree/master/1288-remove-covered-intervals) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Ishita-coder27/leetcodework/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Ishita-coder27/leetcodework/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishita-coder27/leetcodework/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishita-coder27/leetcodework/tree/master/2812-find-the-safest-path-in-a-grid) |
